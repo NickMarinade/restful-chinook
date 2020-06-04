@@ -69,7 +69,7 @@ const controllers = {
         return;
       }
 
-      res.send('Album deleted')
+      res.send('Artist deleted')
     });
    }
 }
